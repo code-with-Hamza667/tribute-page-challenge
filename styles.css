@@ -10,3 +10,8 @@
   font-size: 150%;
   padding-top: 50px;
 }
+#img-div {
+  background-color: white;
+  margin: 40px 20px;
+  padding: 20px 10px;
+}
