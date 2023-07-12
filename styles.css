@@ -6,3 +6,7 @@
   text-align: center;
   box-sizing: border-box;
 }
+#title {
+  font-size: 150%;
+  padding-top: 50px;
+}
